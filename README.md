@@ -38,13 +38,13 @@ Sex_female, Pclass, Fare, Age, SibSp + Parch
 ```
 
 6. structure de projet
-
+```
    titanic-ml-xai/
 │
 ├── data/                  # Dataset Titanic.csv
 ├── notebooks/XAI_ML.ipynb # Notebook complet
 ├── imgs/               # Visualisations SHAP et screenshots              
 └── README.md
-
+```
 
 
